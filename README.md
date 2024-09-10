@@ -87,7 +87,7 @@ Learn how to track changes with `git add`, commit changes with `git commit`, and
 3. Push your code to the remote repository:
 
    ```bash
-   git push -u origin main
+   git push -u origin master
    ```
 
 ### 6. Verify Your Work
