@@ -83,8 +83,13 @@ Learn how to track changes with `git add`, commit changes with `git commit`, and
    ```bash
    git remote add origin https://github.com/your-username/git-exercise.git # Make sure to change the URL to the HTTPS URL you copied from GitHub
    ```
+3. Use the `main` branch:
 
-3. Push your code to the remote repository:
+   ```bash
+   git branch -M main
+   ```
+
+4. Push your code to the remote repository:
 
    ```bash
    git push -u origin main
